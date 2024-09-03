@@ -36,4 +36,4 @@ This repository contains the data, scripts, documents, and reports related to th
 
 ## Contact
 
-For any questions or clarifications, please contact the project lead at [yuqiangdeng857@outlook.com].
+For any questions or clarifications, please contact the project lead at yuqiangdeng857@outlook.com.
